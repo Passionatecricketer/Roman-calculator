@@ -93,7 +93,6 @@ while True:
             count=0
             while count<4:
                 a=random.randint(1,10)
-                print a
                 print "\t"*3,"  ",
                 n=input("Enter the number:")
                 print "\t"
